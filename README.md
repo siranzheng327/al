@@ -1,2 +1,2 @@
 # algorithm-with-python 
-### Notes for algorithm practice 
+### Algorithm practice Notes
